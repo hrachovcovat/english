@@ -1,12 +1,12 @@
 # english
-# THE ICEBREAKER
+# The icebreaker
 ## _instructions_
 Imagine that you have to describe an image you've got to someone who can't see it. Describe everything you see – objects, shapes, sizes, colors, lines, orientation, location, etc. – and other person will try to draw it with the help of your instructions without seeing the image.
 
 ![Composition 1](img/2F34ADF0-27EC-455D-8DC3-DE4429F7A6B1.jpeg)
 
-## IMAGE DESCRIPTION:
-DRAW IT AND HAVE FUN! :)
+## Image description:
+Draw it and have fun! :)
 
 There are 2 objects
 1. The first object looks like the shape of a house
