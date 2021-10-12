@@ -1,11 +1,11 @@
 # english
 # THE ICEBREAKER
 ## _instructions_
+Imagine that you have to describe an image you've got to someone who can't see it. Describe everything you see – objects, shapes, sizes, colors, lines, orientation, location, etc. – and other person will try to draw it with the help of your instructions without seeing the image.
 
 ![Composition 1](img/2F34ADF0-27EC-455D-8DC3-DE4429F7A6B1.jpeg)
 
-Imagine that you have to describe an image you've got to someone who can't see it. Describe everything you see – objects, shapes, sizes, colors, lines, orientation, location, etc. – and other person will try to draw it with the help of your instructions without seeing the image.
-![Composition 3](https://jgagne.github.io/ajovt3-zs21-vskk/img/00-composition/03-comp.png)
+## IMAGE DESCRIPTION:
 There are 2 objects
 1. The first object looks like the shape of a house
 – about 6 cm wide and 5 cm high 
@@ -15,4 +15,5 @@ There are 2 objects
 
 Altogether in the end it reminds a church or some building.
 
-The result ➡️
+## AND HERE IS THE IMAGE
+![Composition 3](https://jgagne.github.io/ajovt3-zs21-vskk/img/00-composition/03-comp.png)
