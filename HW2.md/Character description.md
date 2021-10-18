@@ -1,5 +1,5 @@
 # Character description
 # Letter t
-
-![Tady má být popis obrázku.](Img.md/t.jpeg)
-
+![Embroidery of letter t made of  flowers and leaves.](Img.md/t.jpeg)
+**Alt text:** Embroidery of letter t made of  flowers and leaves.
+*&*, Tereza Hrachovcová. Photo of embroidery. 2021
