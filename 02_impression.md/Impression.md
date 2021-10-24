@@ -2,12 +2,15 @@
 
 ## My favorite portfolio pieces
 
-![Screenshot from title slide of presentation.](img.md/plastic.jpg)
-![Screenshot from title slide of presentation.](img/title-slide.png)
+### What's bothering me?
+popis úkolu???
 
-Short description about yourself and the work.
+![T-shirt mockup with a printing of a plastic cup and question 'Are u sure about it?'.](img.md/plastic.jpg)
+** Alt text: T-shirt mockup with a printing of a plastic cup and question 'Are u sure about it?'.
+![T-shirt mockup with a printing of a photo captured during the Rana Plaza factory collapse in 2013 and a sarcastic question: 'Fashion haul?'.](img.md/haul.jpg)
 
-- [View Presentation](img/…)
+### Book covers of an edition
+![Screenshot from title slide of presentation.](img.md/editionbooks.jpg)
 
 ### Notes
 
