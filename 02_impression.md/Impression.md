@@ -25,11 +25,7 @@ Source of the t-shirt mockup <a href="https://www.freepik.com/psd/mockup">Mockup
 
 Source of the photo http://projects.aljazeera.com/2015/08/rana-plaza/childrens-place.html
 
-
-### Notes
-
-Numbered comments correspond to slide order.
-
-1. …
-2. …
-3. …
+### Some of ordinarily unordinary moments or things captured in my life
+popis???
+![Mockup showing a cover design of a book edition.](img.md/schody11.jpg)
+![Mockup showing a cover design of a book edition.](img.md/schody22.jpg)
