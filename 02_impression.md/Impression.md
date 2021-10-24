@@ -30,3 +30,5 @@ popis???
 ![Photo of round stairs captured from bellow giving the feeling of infinity.](img.md/schody11.jpg)
 ![Photo of square stairs captured from bellow giving the feeling of infinity.](img.md/schody22.jpg)
 ![Photo of stairs and sun light shining through a window on a wall.](img.md/1.jpg)
+![Photo of two people kissing underneath the starry night sky.](img.md/perseidy.jpg)
+![Long exposure photo of a spinning head sculpture.](img.md/head.jpg)
