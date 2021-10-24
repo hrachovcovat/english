@@ -1,6 +1,6 @@
 # Impression
 
-## Title — work by Rad Osm
+## My favorite portfolio pieces
 
 ![Screenshot from title slide of presentation.](img/title-slide.png)
 
