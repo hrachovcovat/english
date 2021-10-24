@@ -28,6 +28,7 @@ Source of the photo http://projects.aljazeera.com/2015/08/rana-plaza/childrens-p
 ### Some of ordinarily unordinary moments or things captured in my life
 popis???
 ![Photo of round stairs captured from bellow giving the feeling of infinity.](img.md/schody11.jpg)
+![Long exposure photo of a spinning head sculpture.](img.md/head.jpg)
 ![Photo of square stairs captured from bellow giving the feeling of infinity.](img.md/schody22.jpg)
 ![Photo of stairs and sun light shining through a window on a wall.](img.md/1.jpg)
-![Long exposure photo of a spinning head sculpture.](img.md/head.jpg)
+
