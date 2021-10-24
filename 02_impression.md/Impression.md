@@ -2,6 +2,16 @@
 
 ## My favorite portfolio pieces
 
+### Cover design of a book edition
+Popis ukolu???
+
+![Mockup showing a cover design of a book edition.](img.md/editionbooks.jpg)
+**Alt text:** Mockup showing a cover design of a book edition.
+
+The first photo with a bicycle shadow was taken by Marco Larousse. Both photos on the bottom were taken by Vivian Maier.
+
+Source of the mockup <a href="https://www.freepik.com/psd/cover">Cover psd created by xvector - www.freepik.com</a>
+
 ### What's bothering me?
 popis úkolu???
 
@@ -14,10 +24,7 @@ Source of the t-shirt mockup <a href="https://www.freepik.com/psd/mockup">Mockup
 **Alt text:** T-shirt mockup with a printing of a photo captured during the Rana Plaza factory collapse in 2013 and a sarcastic question: 'Fashion haul?'.
 
 Source of the photo http://projects.aljazeera.com/2015/08/rana-plaza/childrens-place.html
-### Book covers of an edition
-Popis ukolu???
 
-![Screenshot from title slide of presentation.](img.md/editionbooks.jpg)
 
 ### Notes
 
