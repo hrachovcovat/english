@@ -13,14 +13,13 @@ Source of the mockup <a href="https://www.freepik.com/psd/cover">Cover psd creat
 
 ### What's bothering me?
 
-
 ![T-shirt mockup with a printing of a white plastic cup and question 'Are u sure about it?'.](img.md/plastic.jpg)
 **Alt text:** T-shirt mockup with a printing of a white plastic cup and question 'Are u sure about it?'.
 
 Source of the t-shirt mockup <a href="https://www.freepik.com/psd/mockup">Mockup psd created by Vectorium - www.freepik.com</a>
 
 
-### Some of ordinarily unordinary moments or things captured in my life
+### Some of ordinarily unordinary photos captured in my life
 
 ![Photo of round stairs captured from bellow giving the feeling of infinity.](img.md/schody11.jpg)
 ![Long exposure photo of a spinning head sculpture.](img.md/head.jpg)
