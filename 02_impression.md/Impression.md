@@ -20,10 +20,6 @@ popis úkolu???
 
 Source of the t-shirt mockup <a href="https://www.freepik.com/psd/mockup">Mockup psd created by Vectorium - www.freepik.com</a>
 
-![T-shirt mockup with a printing of a photo captured during the Rana Plaza factory collapse in 2013 and a sarcastic question: 'Fashion haul?'.](img.md/haul.jpg)
-**Alt text:** T-shirt mockup with a printing of a photo captured during the Rana Plaza factory collapse in 2013 and a sarcastic question: 'Fashion haul?'.
-
-Source of the photo http://projects.aljazeera.com/2015/08/rana-plaza/childrens-place.html
 
 ### Some of ordinarily unordinary moments or things captured in my life
 
