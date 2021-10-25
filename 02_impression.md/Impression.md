@@ -3,7 +3,6 @@
 ## My favorite portfolio pieces
 
 ### Cover design of a book edition
-Popis ukolu???
 
 ![Mockup showing a cover design of a book edition.](img.md/editionbooks.jpg)
 **Alt text:** Mockup showing a cover design of a book edition.
@@ -13,7 +12,7 @@ The first photo with a bicycle shadow was taken by Marco Larousse. Both photos o
 Source of the mockup <a href="https://www.freepik.com/psd/cover">Cover psd created by xvector - www.freepik.com</a>
 
 ### What's bothering me?
-popis úkolu???
+
 
 ![T-shirt mockup with a printing of a white plastic cup and question 'Are u sure about it?'.](img.md/plastic.jpg)
 **Alt text:** T-shirt mockup with a printing of a white plastic cup and question 'Are u sure about it?'.
