@@ -1,9 +1,9 @@
 # Tereza Hrachovcová
 ## About me 
 Hey, I am Tereza
-Single sentence about me as a designer
+Single sentence about me as a designer??????
 ## My story
-Photo of me?
+Photo of me?????
 
 In my whole life I have never been really sure about my future. The first notification came when I had to decide what high school I want to study. I don't remember the exact decision but 
 I have always been the person who is staying beyond the camera, not in the viewfinder. So I decided to study a photography and it was a good choice because I fell in love with analog photography.
