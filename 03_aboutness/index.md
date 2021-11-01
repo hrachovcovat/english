@@ -1,6 +1,6 @@
 # Tereza Hrachovcová
 ## About me 
-Hey, I am Tereza
+Hey, I am Tereza, student of a graphic design,
 Single sentence about me as a designer??????
 ## My story
 Photo of me?????
