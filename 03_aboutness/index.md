@@ -3,7 +3,7 @@
 Hey I am Tereza – right now student of a graphic design, human being and seeker of myself.
 
 ## My story
-![Me somewhere in a mountains.](img/jaja.png)
+![Me somewhere in a mountains.](img/jajaja.png)
 
 In my whole life I have never been completely sure about my future. The first notification came when I had to decide what high school I want to study. Someone once told me that I have always been the person who is behind the camera, not in the viewfinder. I took it as a sign and decided to study a photography. It was a right choice because I fell in love with analog photography. Then (again) came another decision making. Somehow I started study a one year language course of english. And here we are again, after the finishing the english course the crazy sign in my head 'loading your decision...' showed up.
  
