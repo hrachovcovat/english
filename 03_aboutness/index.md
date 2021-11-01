@@ -1,6 +1,6 @@
 # Tereza Hrachovcová
 ## About me 
-Hey I am Tereza – right now student of a graphic design, human being and seeker of myself.
+Hey, I am Tereza – right now student of a graphic design, human being and seeker of myself.
 
 ## My story
 ![Me somewhere in a mountains.](img/10.png)
