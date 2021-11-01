@@ -1,9 +1,9 @@
 # Tereza Hrachovcová
 ## About me 
-Hey, I am Tereza, student of a graphic design,
-Single sentence about me as a designer??????
+Hey I am Tereza – right now student of a graphic design, human being and seeker of myself.
+
 ## My story
-Photo of me?????
+![Me somewhere in a mountains.](img/CVphotofin.png)
 
 In my whole life I have never been really sure about my future. The first notification came when I had to decide what high school I want to study. I don't remember the exact decision but 
 I have always been the person who is staying beyond the camera, not in the viewfinder. So I decided to study a photography and it was a good choice because I fell in love with analog photography.
