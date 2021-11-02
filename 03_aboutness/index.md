@@ -11,8 +11,10 @@ So now I am here, studying third and last year of graphic design at VŠKK, telli
 
 But you know what?  Maybe life is about not knowing. About seeking the right way for us. And I can finally say outloud that it's not wrong to not find it, the most important is the journey.
 
- And that's my story. 
+And that's my story. 
 
 And if you are asking what am I like or what I enjoy to do. I like a book design, reading, writing, making a macrame decorations and I enjoy trying to reduce the waste I produce as a human.
 
 [Click to see my case study](case_study.md)
+
+And if u are interested in macrame decorations I make [click here](macrame.md)
