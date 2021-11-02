@@ -1,6 +1,6 @@
 # Tereza Hrachovcová
 ## About me 
-Hey, I am Tereza – right now student of a graphic design, human being and seeker of myself.
+Hey, I am Tereza – right now student of a graphic design, and seeker of myself.
 
 ## My story
 ![Me somewhere in a mountains.](img/10.png)
@@ -13,4 +13,4 @@ But you know what?  Maybe life is about not knowing. About seeking the right way
 
  And that's my story. 
 
-And if you are asking  what am I like or what I enjoy to do. I like a book design, making a macrame decorations and I enjoy trying to reduce the waste I produce as a human.
+And if you are asking what am I like or what I enjoy to do. I like a book design, reading, writing, making a macrame decorations and I enjoy trying to reduce the waste I produce as a human.
