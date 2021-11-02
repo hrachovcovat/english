@@ -15,4 +15,4 @@ But you know what?  Maybe life is about not knowing. About seeking the right way
 
 And if you are asking what am I like or what I enjoy to do. I like a book design, reading, writing, making a macrame decorations and I enjoy trying to reduce the waste I produce as a human.
 
-[Case study](case_study.md)
+[Click to see my case study](case_study.md)
