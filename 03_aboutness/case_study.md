@@ -9,6 +9,7 @@ Required only
 - use a sentence: Czech SAR Team advises 
 
 ## Color palette
+![Czech SAR Team cards1.](img/barvy.png)
 
 ## The first card
 Symptoms of hypoglycemia and hyperglycemia
