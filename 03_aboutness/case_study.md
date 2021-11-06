@@ -5,7 +5,7 @@ Their main activity is the searching for people, who are missing or lost through
 ## Brief
 Make educating cards for instagram according to an assignment.
 
-For example cards about a human body, first aid, symptoms of diseases, what to do when your nose is bleeding, etc.
+- _For example cards about a human body, first aid, symptoms of diseases, what to do when your nose is bleeding, etc._
 
 Required only 
 - use yellow and red colors
@@ -14,15 +14,15 @@ Required only
 ## Color palette
 I used colors they have on theirs uniforms, but in a softer tones.
 
-![Czech SAR Team cards1.](img/barvy.png)
+![Collor palette.](img/barvy.png)
 
 ## The first card
-Symptoms of hypoglycemia and hyperglycemia
+- Symptoms of hypoglycemia and hyperglycemia
 
-![Czech SAR Team cards1.](img/1.png)
+![Symptomns of hypoglycemia and hyperglycemia.](img/1.png)
 
-## What do the final cards look like? 
+## What do the other final cards look like? 
 ![Czech SAR Team cards1.](img/s1.png)
-Alt text:
+
 ![Czech SAR Team cards2.](img/s2.png)
-Alt text:
+
