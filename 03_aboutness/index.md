@@ -17,4 +17,4 @@ And if you are asking what am I like or what I enjoy to do. I like a book design
 
 [Click to see my case study](case_study.md)
 
-And if u are interested in macrame decorations I make [click here](macrame.md)
+And if u are interested in macrame decorations I make, [click here](macrame.md)
