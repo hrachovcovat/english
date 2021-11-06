@@ -13,6 +13,8 @@ Required only
 ## The first card
 Symptoms of hypoglycemia and hyperglycemia
 
+![Czech SAR Team cards1.](img/1.png)
+
 ## What do the final cards look like? 
 ![Czech SAR Team cards1.](img/aj1.jpg)
 Alt text:
