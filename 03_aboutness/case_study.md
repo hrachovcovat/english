@@ -19,7 +19,7 @@ I used colors they have on theirs uniforms, but in a softer tones.
 ## The first card
 - Symptoms of hypoglycemia and hyperglycemia
 
-![Symptomns of hypoglycemia and hyperglycemia.](img/1.png)
+![Symptoms of hypoglycemia and hyperglycemia.](img/1.png)
 
 ## What do the other final cards look like? 
 ![Czech SAR Team cards1.](img/s1.png)
