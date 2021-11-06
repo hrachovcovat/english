@@ -19,7 +19,7 @@ I used colors they have on theirs uniforms, but in a softer tones.
 
 ![Symptoms of hypoglycemia and hyperglycemia.](img/1.png)
 
-## What do the other final cards look like? 
+## What do other final cards look like? 
 ![Czech SAR Team cards1.](img/s1.png)
 - how to proceed when an accident occurs, stroke detection in three steps, what to do when your nose is bleeding
 
