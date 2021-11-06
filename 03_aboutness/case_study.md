@@ -1,1 +1,1 @@
-![Me somewhere in a mountains.](img/aj.jpg)
+![Me somewhere in a mountains.](img/aj1.jpg)
