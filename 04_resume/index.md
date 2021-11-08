@@ -1,7 +1,8 @@
 # Resume
 
 Education
-High school of multimedial and propagational creation
+
+High school of multimedial and promotional creation
 Photography and media
 
 2019 – ??
