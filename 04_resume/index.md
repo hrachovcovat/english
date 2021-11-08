@@ -12,5 +12,14 @@ Graphic and medial design
 Contact
 
 
-
 Hobbies
+...
+Reading
+Writing
+Analog photography
+Embroidering
+Macrame
+Traveling
+
+
+
