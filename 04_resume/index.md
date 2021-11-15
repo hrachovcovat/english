@@ -90,6 +90,8 @@ Traveling
 
 Home work-out
 
-- [Download CV (PDF)](pdf/cv-2021-11-jgagne.pdf) <!-- At the top or bottom? -->
+.
+
+[Download CV (PDF)](pdf/cv-2021-11-jgagne.pdf) <!-- At the top or bottom? -->
 
 
