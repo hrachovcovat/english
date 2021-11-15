@@ -5,8 +5,7 @@ April 30 1999
 *e-mail: hrachovcovatereza@seznam.cz*
 *phone number: +420 607 984 173*
 
-
-
+...
 #### EDUCATION
 VŠKK, Prague
 ### Graphic and medial design
@@ -18,6 +17,7 @@ VŠKK, Prague
 
 *2014 – 2018*
 
+...
 **EXPERIENCE**
 
 **Book design**
@@ -28,7 +28,7 @@ for a student of VŠKK, current
 
 educating cards for Instagram posts
 
-
+...
 **SKILLS**
 
 ### Design
@@ -36,6 +36,7 @@ educating cards for Instagram posts
 ### Design tools
 ??
 
+...
 **INTERESTS**
 
 - Reading
