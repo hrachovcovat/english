@@ -18,6 +18,7 @@ VŠKK, Prague
 *2014 – 2018*
 
 ...
+
 **EXPERIENCE**
 
 **Book design**
@@ -29,6 +30,7 @@ for a student of VŠKK, current
 educating cards for Instagram posts
 
 ...
+
 **SKILLS**
 
 ### Design
@@ -37,6 +39,7 @@ educating cards for Instagram posts
 ??
 
 ...
+
 **INTERESTS**
 
 - Reading
