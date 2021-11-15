@@ -1,6 +1,6 @@
-# Tereza Hrachovcová
+## Tereza Hrachovcová
 
-#### INFO
+### INFO
 *30. 04. 1999*
 
 *e-mail: hrachovcovatereza@seznam.cz*
@@ -9,20 +9,22 @@
 
 
 ...
-#### EDUCATION
+### EDUCATION
 VŠKK college, Prague
-#### Graphic and medial design
+
+**Graphic and medial design**
+
 *2019 – ??*
 
 .
 
-Elvis, Prague
-#### Language course of English
+Language school Elvis, Prague
+#### English course
 *2018 – 2019*
 
 .
 
-High school of multimedial and promotional creation
+High school of multimedial and promotional creation, Prague
 
 #### Photography and media
 
@@ -30,32 +32,47 @@ High school of multimedial and promotional creation
 
 ...
 
-**EXPERIENCE**
+### EXPERIENCE
 
 **Book design**
 
 for a student of VŠKK, current
 
-**Design for Czech SAR Team**
+.
 
-educating cards for Instagram posts
+**Design of educating cards**
 
-**Theatrical performance photography**
+for Czech SAR Team's Instagram posts
 
-photographing of rehearsal performance, theatre D21
+.
+
+**Theatrical rehearsal performance photography** 
+
+for theatre D21, one-off
+
+.
+
+**Part time job at Tchibo Shop**
+
+since 2018
 
 ...
 
-**SKILLS**
+### SKILLS
 
-### Design
-??
-### Design tools
-??
+**Adobe Photoshop**, retouching, photos' editing
+
+**Adobe Illustrator**
+
+**Figma**
+
+**Adobe InDesign**, books
+
+
 
 ...
 
-**INTERESTS**
+### INTERESTS
 
 Reading
 
