@@ -1,16 +1,14 @@
 # Tereza Hrachovcová
 April 30 1999
 
-**CONTACT**
-
+#### CONTACT
 *e-mail: hrachovcovatereza@seznam.cz*
 *phone number: +420 607 984 173*
 
 
 
-**EDUCATION**
-
-**VŠKK, Prague**
+#### EDUCATION
+VŠKK, Prague
 ### Graphic and medial design
 *2019 – ??*
 
