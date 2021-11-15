@@ -1,14 +1,9 @@
 ## Tereza Hrachovcová
 
-### INFO
 *30. 04. 1999*
 
-*e-mail: hrachovcovatereza@seznam.cz*
-
-*phone number: +420 607 984 173*
-
-
 ...
+
 ### EDUCATION
 VŠKK college, Prague
 
@@ -70,6 +65,7 @@ since 2018
 
 **Analog photography**, developing films, enlarging photos using chemistry
 
+**Github**
 
 
 ...
@@ -90,8 +86,15 @@ Traveling
 
 Home work-out
 
-.
+...
 
-[Download CV (PDF)](pdf/cv-2021-11-jgagne.pdf) <!-- At the top or bottom? -->
+If you want to contact me, use this e-mail adress *hrachovcovatereza@seznam.cz*
+
+Or my phone number *+420 607 984 173*
+
+If I don't pick up your calls, I am probably busy with speculating who is calling and telling myself 'hey u can do it, just pick up the phone', haha.
+
+
+
 
 
