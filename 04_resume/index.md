@@ -1,12 +1,18 @@
 # Tereza Hrachovcová
-**CONTACT**
-*e-mail*
-*hrachovcovatereza@seznam.cz*
+April 30 1999
 
-*Instagram*
+**CONTACT**
+
+*e-mail: hrachovcovatereza@seznam.cz*
+*phone number: +420 607 984 173*
+
 
 
 **EDUCATION**
+
+**VŠKK, Prague**
+### Graphic and medial design
+*2019 – ??*
 
 **High school of multimedial and promotional creation**
 
@@ -14,27 +20,31 @@
 
 *2014 – 2018*
 
-**VŠKK**
-### Graphic and medial design
-*2019 – ??*
-
-
 **EXPERIENCE**
-Book design for a student of at VŠKK
-Design of educating cards for Czech SAR Team
+
+**Book design**
+
+for a student of VŠKK, current
+
+**Design for Czech SAR Team**
+
+educating cards for Instagram posts
 
 
-SKILLS
+**SKILLS**
+
 ### Design
+??
 ### Design tools
+??
 
-Hobbies
-...
-Reading
-Writing
-Analog photography
-Embroidering
-Macrame
+**INTERESTS**
+
+- Reading
+- Writing
+- Analog photography
+- Embroidering
+- Macrame making
 Traveling
 
 - [Download CV (PDF)](pdf/cv-2021-11-jgagne.pdf) <!-- At the top or bottom? -->
