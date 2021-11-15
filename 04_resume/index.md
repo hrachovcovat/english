@@ -7,11 +7,13 @@
 
 
 **EDUCATION**
+### Photography and media
 
-High school of multimedial and promotional creation
-Photography and media
+**High school of multimedial and promotional creation**
 
-2019 – ??
+*2014 – 2018*
+
+*2019 – ??*
 VŠKK
 Graphic and medial design
 
