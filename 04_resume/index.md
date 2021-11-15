@@ -68,6 +68,8 @@ since 2018
 
 **Adobe InDesign**, books
 
+**Analog photography**, developing films, enlarging photos using chemistry
+
 
 
 ...
