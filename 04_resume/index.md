@@ -7,18 +7,21 @@
 
 
 **EDUCATION**
-### Photography and media
 
 **High school of multimedial and promotional creation**
 
+### Photography and media
+
 *2014 – 2018*
 
+**VŠKK**
+### Graphic and medial design
 *2019 – ??*
-VŠKK
-Graphic and medial design
+
 
 **EXPERIENCE**
-
+Book design for a student of at VŠKK
+Design of educating cards for Czech SAR Team
 
 
 SKILLS
