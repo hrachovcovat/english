@@ -1,7 +1,12 @@
 # Tereza Hrachovcová
+**CONTACT**
+*e-mail*
+*hrachovcovatereza@seznam.cz*
 
-Contact
-Education
+*Instagram*
+
+
+**EDUCATION**
 
 High school of multimedial and promotional creation
 Photography and media
@@ -10,8 +15,13 @@ Photography and media
 VŠKK
 Graphic and medial design
 
-Contact
+**EXPERIENCE**
 
+
+
+SKILLS
+### Design
+### Design tools
 
 Hobbies
 ...
@@ -21,14 +31,6 @@ Analog photography
 Embroidering
 Macrame
 Traveling
-
-## Experience
-
-
-
-SKILLS
-
-
 
 - [Download CV (PDF)](pdf/cv-2021-11-jgagne.pdf) <!-- At the top or bottom? -->
 
