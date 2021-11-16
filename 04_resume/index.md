@@ -1,7 +1,8 @@
 ## Tereza Hrachovcová
 
 ### INFO
-**30. 04. 1999*
+
+*30. 04. 1999*
 
 If you want to contact me, use this e-mail adress *hrachovcovatereza@seznam.cz*
 
@@ -17,7 +18,7 @@ VŠKK, University of Creative Communication, Prague
 
 **Graphic and media design**
 
-*2019 – ??*
+*2019 – maybe BcA in 2022*
 
 Language school Elvis, Prague
 #### English course
