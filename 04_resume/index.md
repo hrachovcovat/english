@@ -7,9 +7,7 @@ If you want to contact me, use this e-mail adress *hrachovcovatereza@seznam.cz*
 
 Or my phone number *+420 607 984 173*
 
-(If I don't pick up your calls, I am probably busy with speculating who is calling and telling myself 'hey u can do this, just pick up the phone'. In that case???)
-
-
+(If I don't pick up your calls, text me, I am probably busy with speculating who is calling and telling myself 'hey u can do this, just pick up the phone'.)
 
 ---
 
@@ -21,13 +19,9 @@ VŠKK, University of Creative Communication, Prague
 
 *2019 – ??*
 
-.
-
 Language school Elvis, Prague
 #### English course
 *2018 – 2019*
-
-.
 
 High school of multimedia and promotional creation, Prague
 
@@ -77,24 +71,7 @@ customer service, ?? and sorting orders, staff assistant
 
 **Github**, markdown, publishing content
 
-
-...
-
-### INTERESTS
-
-Reading
-
-Writing
-
-Analog photography
-
-Embroidering
-
-Macrame making
-
-Traveling
-
-Home work-out
+**Writing**, just think so cause I love to make texts sound better
 
 ...
 
