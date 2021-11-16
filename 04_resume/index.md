@@ -92,7 +92,7 @@ If you want to contact me, use this e-mail adress *hrachovcovatereza@seznam.cz*
 
 Or my phone number *+420 607 984 173*
 
-If I don't pick up your calls, I am probably busy with speculating who is calling and telling myself 'hey u can do it, just pick up the phone', haha.
+If I don't pick up your calls, I am probably busy with speculating who is calling and telling myself 'hey u can do this, just pick up the phone', haha.
 
 
 
