@@ -43,39 +43,39 @@ High school of multimedia and promotional creation, Prague
 
 a self-publishing book for a student of Literary Arts at VŠKK
 
-.
-
-**Design of educating cards** / 2020
+**Design of educational cards** / 2020
 
 for Czech SAR Team's Instagram posts
 
-.
-
 **Theatrical rehearsal performance photography** / 2018
 
-for theatre D21, one-off
+for theatre D21, one-off high school project
 
-.
+**Firefighting training photography** / 2017
 
-**Part time job at Tchibo Shop** / current
+one-off high school project
 
-since 2018
+**Part time job at Tchibo Shop** / current, since 2018
+
+customer service, ?? and sorting orders, staff assistant
 
 ...
 
 ### SKILLS
 
-**Adobe Photoshop**, retouching, photos' editing
+**Photoshop**, retouching, editing
 
-**Adobe Illustrator**
+**Illustrator**, designing, vectors
 
-**Figma**
+**InDesign**, book design and typography
 
-**Adobe InDesign**, books
+**Figma**, a little bit of prototyping
 
-**Analog photography**, developing films, enlarging photos using chemistry
+**Digital photography**, 
 
-**Github**
+**Analog photography**, developing films, enlarging photos using chemistry at homemade studio (grandpa's bathroom)
+
+**Github**, markdown, publishing content
 
 
 ...
