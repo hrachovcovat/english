@@ -38,17 +38,26 @@ High school of multimedia and promotional creation, Prague
 
 a self-publishing book for a student of Literary Arts at VŠKK
 
+this is my first book real project at all, so I 
+
 **Design of educational cards** / 2020
 
 for Czech SAR Team's Instagram posts
+
+i had to 
 
 **Theatrical rehearsal performance photography** / 2018
 
 for theatre D21, one-off high school project
 
+- I had to be predictable and react qickly
+- I really liked it, because every scene was different and I could play with lights to affect a final photo
+
 **Firefighting training photography** / 2017
 
 one-off high school project
+
+during this project I had to be on the alert, because everything was happening so quickly and anything won't happen again
 
 **Part time job at Tchibo Shop** / current, since 2018
 
@@ -66,7 +75,7 @@ customer service, ?? and sorting orders, staff assistant
 
 **Figma**, a little bit of prototyping
 
-**Digital photography**, 
+**Digital photography**, architecture, details and photos of people who don't know I am taking a photo of
 
 **Analog photography**, developing films, enlarging photos using chemistry at homemade studio (grandpa's bathroom)
 
