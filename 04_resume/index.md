@@ -20,9 +20,11 @@ VŠKK, University of Creative Communication, Prague
 
 *2019 – maybe BcA in 2022*
 
+
 Language school Elvis, Prague
 #### English course
 *2018 – 2019*
+
 
 High school of multimedia and promotional creation, Prague
 
@@ -38,13 +40,13 @@ High school of multimedia and promotional creation, Prague
 
 a self-publishing book for a student of Literary Arts at VŠKK
 
-this is my first book real project at all, so I 
+- this is my first book real project at all, so I am firstly experiencing what it really is
 
 **Design of educational cards** / 2020
 
 for Czech SAR Team's Instagram posts
 
-i had to 
+- i had to deal with a lot of text placed in a small place or just with a layout
 
 **Theatrical rehearsal performance photography** / 2018
 
@@ -57,11 +59,12 @@ for theatre D21, one-off high school project
 
 one-off high school project
 
-during this project I had to be on the alert, because everything was happening so quickly and anything won't happen again
+- during this project I had to be on the alert
+- everything was happening so quickly and anything won't happen again
 
 **Part time job at Tchibo Shop** / current, since 2018
 
-customer service, ?? and sorting orders, staff assistant
+customer service, pairing and sorting orders, assistant for everything
 
 ...
 
