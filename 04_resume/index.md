@@ -88,6 +88,8 @@ customer service, pairing and sorting orders, assistant for everything
 
 ...
 
+– [Download PDF] (img/resume.pdf)
+
 
 
 
