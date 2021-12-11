@@ -1,7 +1,7 @@
 # Tereza Hrachovcová
 [CV odkaz](
 ## My work
-- [Character Description]
+- [Character Description](01.md/01-character-description.md)
 - Impression: [My best portfolio pieces]
 - Aboutness: [About me] + [Case Study]
 - Storrytelling ??
