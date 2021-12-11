@@ -5,4 +5,4 @@
 - Impression: [My best portfolio pieces](02_impression.md/index.md)
 - Aboutness: [About me](03_aboutness/index.md) + [Case Study](03_aboutness/case_study.md)
 - Storrytelling
-- Extra: [Takeaways](takeaways.md)
+- Extra: [Takeaways](07_takeaways/index.md)
