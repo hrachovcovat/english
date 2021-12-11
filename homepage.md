@@ -3,6 +3,6 @@
 ## My work
 - [Character Description](01.md/01-character-description.md)
 - Impression: [My best portfolio pieces](02_impression/index.md)
-- Aboutness: [About me] + [Case Study]
+- Aboutness: [About me](03_aboutness/index.md) + [Case Study]
 - Storrytelling ??
 - Extra: [Takeaways](takeaways.md)
