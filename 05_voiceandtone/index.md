@@ -15,8 +15,3 @@ to e-mails or simple grocery lists. That's why I know that
 it's necessary to change our voice and tone according to 
 different situations and people. It gives people the idea 
 of who we are and that's why it's so important.
-
-- friendly
-- relieved
-- formal
-
