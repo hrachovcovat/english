@@ -1,13 +1,17 @@
 # Hello, I am the most stressed out human being in the whole world. Nice to meet you!
-### ???nějakej skvělej podtitulek
+### Design story? Eeeeee...
+> Me thinking really hard about my design story
+![me.](Img/panicking.jpg)
 Let's get back to the age I was still able to relax, the word stress was just a word and everything I had in my mind was which animal I will make of chestnuts. It was in the kindergaten. Yes, a long time ago. 
-```
-Let me introduce you a relaxed me
-```
-![Mockup showing a cover design of a book edition.](Img/ii.jpg)
-When I was a kid, my mother did a lot of creative things with me. She somehow create a love for making 
+
+> Let me introduce you a 'relaxed me'
+
+![me.](Img/kk.jpg)
+When I was a kid, my mother did a lot of creative things with me. She somehow build a love for creating things in me. 
+
+> For example this is my some of my work I made in ?? years. I was proud of myself. Funny right? Now I can't find that type of feeling.
+
 - ??Fotka ňákýho supr čupr mastrpísu z dětství
-- This is some of my work I made in ?? years. I was proud of myself, funny right? Now I can't find that type of feeling.
 
 The older I got the more I knew that making a decisions is not my style and that I am really really really stressed about everything what is going on in my life. And when I say everything it is truly everything. Phone calls, exams, presentations, changes, future, first rehabilitation visit, doctors, dentists, being photographed, going into sea in case of a shark would cut off my leg, ??
 But the most hardest thing for me I am stressed about is speaking about myself, because in these days is almost forbidden to say a sentences like I don't know who I am, I don't know what to do with my future. From all of us is expected to know it. And if there is someone who don't, something went wrong. 
@@ -27,9 +31,12 @@ But you know what? Maybe life is about not knowing. About seeking the right way 
 Me stressing about not knowing the answer, ignoring that question and stressing about ignoring it. fotkaaaaa 
 - I would say that I am that type of kid that answer “I just want to be happy”
 #### So what does graphic design mean to you? Will you finally tell us the design story instead of this?
-> I would be lying if I would say that graphic design is my biggest passion. That I am thinking about it right after waking up and during brushing my teeth, that I am having a breakfast, lunch, snack and dinner with Illustrator on my screen and when I am sleeping, that I am dreaming about it. It would be nice like that, but that's not true. And I am sorry world, I can't hate myself for it.
-> 
-> I have never been a person who loves talking and talking to people, presenting oneself or their work and these things. Be known and visible. This is not what I want.
+I would be lying if I would say something like...
+> Graphic design is my biggest passion. I am thinking about it right after waking up and during brushing my teeth, I am having a breakfast, lunch, snack and dinner with Illustrator on my screen and when I am sleeping, I am dreaming about it. 
+
+It would be nice like that, but that's not true. And I am sorry world, I can't hate myself for it. 
+
+I have never been a person who loves talking and talking to people, presenting oneself or their work and these things. Be known and visible. This is not what I want.
 I know it is also important for this specifications but also I know it can be done without it. Every human prefers something else. I am the one who want to silently do my job.
 I just want to be happy. 
 - has an ability to defend oneself. And I don't have a need to do that to convince someone to like me or my work.
