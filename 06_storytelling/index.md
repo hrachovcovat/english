@@ -20,7 +20,7 @@ So now I am here, studying third and last year of graphic design at VŠKK, telli
 But you know what? Maybe life is about not knowing. About seeking the right way for us. And I can finally say outloud that it's not wrong to not find it, the most important is the journey.
 
 #### Decision no. 4 “What do you want to do now?”
-# ???????????????????
+# ??????????????????? (handwrtitten?!)
 Me stressing about not knowing the answer, ignoring that question and stressing about ignoring it. fotkaaaaa 
 - I would say that I am that type of kid that answer “I just want to be happy”
 #### So what does graphic design mean to you? Will you finally tell us the design story instead of this?
