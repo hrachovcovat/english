@@ -1,7 +1,10 @@
 # Hello, I am the most stressed out human being in the whole world. Nice to meet you!
 ### ???nějakej skvělej podtitulek
 Let's get back to the age I was still able to relax, the word stress was just a word and everything I had in my mind was which animal I will make of chestnuts. It was in the kindergaten. Yes, a long time ago. 
-![Mockup showing a cover design of a book edition.](Img/hi.jpg)
+```
+*Let me introduce you a relaxed me*
+```
+![Mockup showing a cover design of a book edition.](Img/mm.jpg)
 - fotka vychillovaný tete (This is realaxed me)
 When I was a kid, my mother did a lot of creative things with me. She somehow create a love for making 
 - ??Fotka ňákýho supr čupr mastrpísu z dětství
