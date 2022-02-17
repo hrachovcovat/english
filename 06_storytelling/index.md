@@ -2,7 +2,7 @@
 ### Design story? Eeeeee...
 > Me thinking really hard about my design story
 
-![me.](Img/panicking.jpg)
+![me.](Img/panicking1.jpg)
 
 Let's get back to the age I was still able to relax, the word stress was just a word and everything I had in my mind was which animal I will make of chestnuts. It was in the kindergaten. Yes, a long time ago. 
 
