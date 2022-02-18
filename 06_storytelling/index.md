@@ -1,6 +1,6 @@
 # Hello, I am the most stressed out human being in the whole world. Nice to meet you!
 ### Design story? Eeeeee...
-> Me thinking really hard about my design story
+> Me thinking really hard about my design story.
 
 ![me.](Img/panicking1.jpg)
 
@@ -9,7 +9,7 @@ Let's get back to the age I was still able to relax, the word stress was just a 
 > Let me introduce you a 'relaxed me'
 
 ![me.](Img/kk.jpg)
-When I was a kid, my mother did a lot of creative things with me. She somehow build a love for creating things in me. 
+When I was a kid, me and my mother did a lot of creative activities and she somehow build a love for creating things in me. I also attended drawing and ceramics club. I remember my first contact with a computer, I was about 8 sitting infront of a big screen and my dad was explaining me what is Google, that I can search some pictures of princesses and fairies here (:DDD).
 
 > For example this is my some of my work I made in ?? years. I was proud of myself. Funny right? Now I can't find that type of feeling.
 
@@ -19,12 +19,12 @@ The older I got the more I knew that making a decisions is not my style and that
 But the most hardest thing for me I am stressed about is speaking about myself, because in these days is almost forbidden to say a sentences like I don't know who I am, I don't know what to do with my future. From all of us is expected to know it. And if there is someone who don't, something went wrong. 
 > I have to stop blabbing, let's get back to the story. (Funny fact: All that I would never say outloud)
 #### Hello, I am decision no. 1. Are you ready? Nah. Whatever. “What high school do you want to study?”
-That was my first important moment to decide about my future. Someone once told me that I have always been the person who is behind the camera, not in the viewfinder. I took it as a sign and decided to study a photography. It was a right choice because I fell in love with analog photography. 
+That was my first important moment to decide about my future. Someone once told me that I have always been the person who is behind the camera, not in the viewfinder. I took it as a sign and decided to study a photography. It was a right choice because I fell in love with analog photography. At high school I was also attending lessons of graphic design and that was my first step to it. 
 #### Decision no. 2 “What do you want to do after high school?”
 Somehow I started study a one year language course of english. When I started I was telling myself: “I have one year to find out who I am as a human. It is a pile of time!” 
-Truth is that it wasn't plenty of time. And here we are again, after the finishing the english course the crazy sign in my head 'loading your decision...' showed up.
+Truth is that it wasn't plenty of time. And here we are again, after the finishing the english course the crazy sign in my head 'loading your decision...' showed up. The english course took a place in the same building as VŠKK, so that was the first step closer. The teacher once asked me if I am going to continue in here and try to sign up for this university. I told him that I don't think so. And here we are...
 #### Decision no. 3 “What do you want to do after a language course?”
-So now I am here, studying third and last year of graphic design at VŠKK, telling myself what the f are u doing here, you don't belong here.
+So now I am here, studying third and last year of graphic design at VŠKK, telling myself what the f are u doing here. You don't belong here.
 
 But you know what? Maybe life is about not knowing. About seeking the right way for us. And I can finally say outloud that it's not wrong to not find it, the most important is the journey.
 
