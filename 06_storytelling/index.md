@@ -15,17 +15,17 @@ When I was a kid, me and my mother did a lot of creative activities and she some
 
 - ??Fotka ňákýho supr čupr mastrpísu z dětství
 
-The older I got the more I knew that making a decisions is not my style and that I am really really really stressed about everything what is going on in my life. And when I say everything it is truly everything. Phone calls, exams, presentations, changes, future, first rehabilitation visit, doctors, dentists, being photographed, going into sea in case of a shark would cut off my leg, ??
+The older I got the more I knew that making a decisions is not my style and that I am really really really stressed about everything what is going on in my life. And when I say everything it is truly everything. Phone calls, exams, presentations, changes, future, first rehabilitation visit, doctors, dentists, being photographed, going into sea in case of a shark would cut off my leg, that a spider would attact me when I am sleeping and so on... :DDD
 But the most hardest thing for me I am stressed about is speaking about myself, because in these days is almost forbidden to say a sentences like I don't know who I am, I don't know what to do with my future. From all of us is expected to know it. And if there is someone who don't, something went wrong. 
 > I have to stop blabbing, let's get back to the story. (Funny fact: All that I would never say outloud)
+
 #### Hello, I am decision no. 1. Are you ready? Nah. Whatever. “What high school do you want to study?”
-That was my first important moment to decide about my future. Someone once told me that I have always been the person who is behind the camera, not in the viewfinder. I took it as a sign and decided to study a photography. It was a right choice because I fell in love with analog photography. At high school I was also attending lessons of graphic design and that was my first step to it. 
+That was my first important moment to decide about my future. Someone once told me that I have always been the person who is behind the camera, not in the viewfinder (since I was 10, I hate being photographed). I took it as a sign and decided to study a photography. It was a right choice because I fell in love with analog photography. At high school I was also attending lessons of graphic design and that was my first step to it. 
 #### Decision no. 2 “What do you want to do after high school?”
 Somehow I started study a one year language course of english. When I started I was telling myself: “I have one year to find out who I am as a human. It is a pile of time!” 
 Truth is that it wasn't plenty of time. And here we are again, after the finishing the english course the crazy sign in my head 'loading your decision...' showed up. The english course took a place in the same building as VŠKK, so that was the first step closer. The teacher once asked me if I am going to continue in here and try to sign up for this university. I told him that I don't think so. And here we are...
 #### Decision no. 3 “What do you want to do after a language course?”
-So now I am here, studying third and last year of graphic design at VŠKK, telling myself what the f are u doing here, you don't belong in here. But I already know that my life is about not knowing.
-
+So now I am here, studying third and last year of graphic design at VŠKK, telling myself what the f are u doing here, you don't belong in here. But I already know that my life is about not knowing and about getting to know myself. I have always love reading books (surprisingly, because it is a silent activity and I don't have to speak) and thanks to the university I know that I (I can't say love, it will be explained in a moment) like a book design.
 #### Decision no. 4 “What do you want to do now?”
 > Me stressing about not knowing the answer, ignoring that question and stressing about ignoring it. 
 
@@ -42,4 +42,4 @@ I would be lying if I would say something like...
 I have never been a person who loves talking and talking to people, presenting oneself or their work and these things. Be known and visible. This is not what I want.
 I know it is important for this specifications but also I know it can be done without it. Every human prefers something else. I am the one who want to silently do my job and be happy. I like about that the opportunity, that it can be done almost silently and that something can speak instead of me.
 
-#### So if you were looking for a design story, I am sorry but you wasted ?? minutes.
+#### So if you were looking for a design story, I am sorry but you wasted 10 minutes.
