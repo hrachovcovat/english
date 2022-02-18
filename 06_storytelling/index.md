@@ -40,6 +40,6 @@ I would be lying if I would say something like...
 - It would be nice like that, but that's not true. And I am sorry world, I can't hate myself for it. 
 
 I have never been a person who loves talking and talking to people, presenting oneself or their work and these things. Be known and visible. This is not what I want.
-I know it is important for this specifications but also I know it can be done without it. Every human prefers something else. I am the one who want to silently do my job and be happy. I like about that the opportunity, that it can be done almost silently and that something can speak instead of me.
+I know it is important for this specifications but also I know it can be done without it. Every human prefers something else. I am the one who want to silently do my job and be happy. I like about it the opportunity, that it can be done almost silently and that something can speak instead of me.
 
 #### So if you were looking for a design story, I am sorry but you wasted 10 minutes.
