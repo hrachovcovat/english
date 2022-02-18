@@ -24,13 +24,13 @@ That was my first important moment to decide about my future. Someone once told 
 Somehow I started study a one year language course of english. When I started I was telling myself: “I have one year to find out who I am as a human. It is a pile of time!” 
 Truth is that it wasn't plenty of time. And here we are again, after the finishing the english course the crazy sign in my head 'loading your decision...' showed up. The english course took a place in the same building as VŠKK, so that was the first step closer. The teacher once asked me if I am going to continue in here and try to sign up for this university. I told him that I don't think so. And here we are...
 #### Decision no. 3 “What do you want to do after a language course?”
-So now I am here, studying third and last year of graphic design at VŠKK, telling myself what the f are u doing here. You don't belong here.
-
-But you know what? Maybe life is about not knowing. About seeking the right way for us. And I can finally say outloud that it's not wrong to not find it, the most important is the journey.
+So now I am here, studying third and last year of graphic design at VŠKK, telling myself what the f are u doing here, you don't belong in here. But I already know that my life is about not knowing.
 
 #### Decision no. 4 “What do you want to do now?”
-# ??????????????????? (handwrtitten?!)
-Me stressing about not knowing the answer, ignoring that question and stressing about ignoring it. fotkaaaaa 
+![Question marks.](Img/qq.jpg)
+> Me stressing about not knowing the answer, ignoring that question and stressing about ignoring it. 
+
+![Me in sand.](Img/invisible.jpg)
 - I would say that I am that type of kid that answer “I just want to be happy”
 #### So what does graphic design mean to you? Will you finally tell us the design story instead of this?
 I would be lying if I would say something like...
