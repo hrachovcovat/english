@@ -31,7 +31,7 @@ So now I am here, studying third and last year of graphic design at VŠKK, telli
 
 ![4 years old me in sand.](Img/invisible.jpg)
 - I would say that I am that type of a kid that answer something like:
-![6 years old me as a cat.](Img/happy.jpg)
+![6 years old me as a cat.](Img/happy1.jpg)
 #### So what does graphic design mean to you? Will you finally tell us the design story instead of this?
 I would be lying if I would say something like...
 > Graphic design is my biggest passion. I am thinking about it right after waking up and during brushing my teeth, I am having a breakfast, lunch, snack and dinner with Illustrator on my screen and when I am sleeping, I am dreaming about it. 
