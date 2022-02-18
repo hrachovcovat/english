@@ -30,27 +30,16 @@ So now I am here, studying third and last year of graphic design at VŠKK, telli
 > Me stressing about not knowing the answer, ignoring that question and stressing about ignoring it. 
 
 ![4 years old me in sand.](Img/invisible.jpg)
-- I would say that I am that type of a kid that answer something like:
+
+I would say that I am that type of a kid that answer something like:
 ![6 years old me as a cat.](Img/happy1.jpg)
 #### So what does graphic design mean to you? Will you finally tell us the design story instead of this?
 I would be lying if I would say something like...
 > Graphic design is my biggest passion. I am thinking about it right after waking up and during brushing my teeth, I am having a breakfast, lunch, snack and dinner with Illustrator on my screen and when I am sleeping, I am dreaming about it. 
 
-It would be nice like that, but that's not true. And I am sorry world, I can't hate myself for it. 
+- It would be nice like that, but that's not true. And I am sorry world, I can't hate myself for it. 
 
 I have never been a person who loves talking and talking to people, presenting oneself or their work and these things. Be known and visible. This is not what I want.
-I know it is also important for this specifications but also I know it can be done without it. Every human prefers something else. I am the one who want to silently do my job.
-I just want to be happy. 
-- has an ability to defend oneself. And I don't have a need to do that to convince someone to like me or my work.
-- So what I love about that? That it can be done almost silently. And the work can speak instead of me.
+I know it is important for this specifications but also I know it can be done without it. Every human prefers something else. I am the one who want to silently do my job and be happy. I like about that the opportunity, that it can be done almost silently and that something can speak instead of me.
 
-
-who inspires me?
--  now I am inspirating from other's work the most. 
--  instagram or pinterent 
-
-where does my inspiration come from?
-- this is really hard question because I have had always a problem with motivation and inspiration. And cause I am still finding myself as a human, I am also still finding myslef as a graphic designer. I can't say what style I like the most or something like this. But I believe that one day I will find it.
-
-
-
+#### So if you were looking for a design story, I am sorry but you wasted ?? minutes.
