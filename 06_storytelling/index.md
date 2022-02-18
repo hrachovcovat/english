@@ -27,11 +27,11 @@ Truth is that it wasn't plenty of time. And here we are again, after the finishi
 So now I am here, studying third and last year of graphic design at VŠKK, telling myself what the f are u doing here, you don't belong in here. But I already know that my life is about not knowing.
 
 #### Decision no. 4 “What do you want to do now?”
-![Question marks.](Img/qq.jpg)
 > Me stressing about not knowing the answer, ignoring that question and stressing about ignoring it. 
 
-![Me in sand.](Img/invisible.jpg)
-- I would say that I am that type of kid that answer “I just want to be happy”
+![4 years old me in sand.](Img/invisible.jpg)
+- I would say that I am that type of a kid that answer something like:
+![6 years old me as a cat.](Img/happy.jpg)
 #### So what does graphic design mean to you? Will you finally tell us the design story instead of this?
 I would be lying if I would say something like...
 > Graphic design is my biggest passion. I am thinking about it right after waking up and during brushing my teeth, I am having a breakfast, lunch, snack and dinner with Illustrator on my screen and when I am sleeping, I am dreaming about it. 
