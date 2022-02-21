@@ -11,9 +11,9 @@ Let's get back to the age I was still able to relax, the word stress was just a 
 ![me.](Img/kk.jpg)
 When I was a kid, me and my mother did a lot of creative activities and she somehow build a love for creating things in me. I also attended drawing and ceramics club. I remember my first contact with a computer, I was about 8 sitting infront of a big screen and my dad was explaining me what is Google, that I can search some pictures of princesses and fairies here (:DDD).
 
-> For example this is my some of my work I made in ?? years. I was proud of myself. Funny right? Now I can't find that type of feeling.
+> For example this is one of my ceramics works I made in 7 years. I was proud of myself. Funny right? Now I can't find that type of feeling.
 
-- ??Fotka ňákýho supr čupr mastrpísu z dětství
+![Cat.](Img/cat.jpg)
 
 The older I got the more I knew that making a decisions is not my style and that I am really really really stressed about everything what is going on in my life. And when I say everything it is truly everything. Phone calls, exams, presentations, changes, future, first rehabilitation visit, doctors, dentists, being photographed, going into sea in case of a shark would cut off my leg, that a spider would attact me when I am sleeping and so on... :DDD
 But the most hardest thing for me I am stressed about is speaking about myself, because in these days is almost forbidden to say a sentences like I don't know who I am, I don't know what to do with my future. From all of us is expected to know it. And if there is someone who don't, something went wrong. 
