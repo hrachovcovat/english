@@ -18,6 +18,9 @@ When I was a kid, me and my mother did a lot of creative activities and she some
 The older I got the more I knew that making a decisions is not my style and that I am really really really stressed about everything what is going on in my life. And when I say everything it is truly everything. Phone calls, exams, presentations, changes, future, first rehabilitation visit, doctors, dentists, being photographed, going into sea in case of a shark would cut off my leg, that a spider would attact me when I am sleeping and so on... :DDD
 But the most hardest thing for me I am stressed about is speaking about myself, because in these days is almost forbidden to say a sentences like I don't know who I am, I don't know what to do with my future. From all of us is expected to know it. And if there is someone who don't, something went wrong. 
 > I have to stop blabbing, let's get back to the story. (Funny fact: All that I would never say outloud)
+> If you can't imagine how I feel right now during presenting, this photo of me describes everything I guess.
+
+![My scared face.](Img/??.jpg)
 
 #### Hello, I am decision no. 1. Are you ready? Nah. Whatever. “What high school do you want to study?”
 That was my first important moment to decide about my future. Someone once told me that I have always been the person who is behind the camera, not in the viewfinder (since I was 10, I hate being photographed). I took it as a sign and decided to study a photography. It was a right choice because I fell in love with analog photography. At high school I was also attending lessons of graphic design and that was my first step to it. I learned how to work with Photoshop and Illustrator here.
