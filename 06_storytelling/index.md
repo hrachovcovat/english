@@ -4,7 +4,7 @@
 
 ![me.](Img/panicking1.jpg)
 
-Let's get back to the age I was still able to relax, the word stress was just a word and everything I had in my mind was which animal I will make of chestnuts. It was in the kindergaten. Yes, a long time ago. 
+Let's get back to the age I was still able to relax, the word stress was just a word and only problem I had in my mind was which animal I will make of chestnuts. It was in the kindergaten. Yes, a long time ago. 
 
 > Let me introduce you a 'relaxed me'
 
