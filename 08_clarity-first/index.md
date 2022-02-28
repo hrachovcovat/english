@@ -46,13 +46,25 @@ In my thesis I will redesign an identity for Glamping Pyskočely, the project pr
   - …
 
 ## Key Points
-1. Background/importance of topic
-- Visual identity for a project Glamping Pyskočely.
-3. Purpose/hypothesis (thesis or statement of problem)
-- ?
-5. Research — design/methodology/approach including procedures/data/observations:
-6. Findings (highlight outcome of research):
-7. Conclusions (significance/success of study to theory/practical/society):
+**Background/importance of topic**
+
+Visual identity for a project Glamping Pyskočely.
+
+**Purpose/hypothesis (thesis or statement of problem)**
+
+?
+
+**Research — design/methodology/approach including procedures/data/observations**
+
+?
+
+**Findings (highlight outcome of research)**
+
+?
+
+**Conclusions (significance/success of study to theory/practical/society)**
+
+?
 
 ## References
 
