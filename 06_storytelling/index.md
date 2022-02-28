@@ -20,7 +20,7 @@ But the most hardest thing for me I am stressed about is speaking about myself, 
 > I have to stop blabbing, let's get back to the story. (Funny fact: All that I would never say outloud)
 > And if you can't imagine how I feel right now during my presentation, this photo of me describes everything I guess.
 
-![My 3 years old scared face.](Img/ugh.jpg)
+![My 3 years old scared face.](Img/ugh1.jpg)
 
 #### Hello, I am decision no. 1. Are you ready? Nah. Whatever. “What high school do you want to study?”
 That was my first important moment to decide about my future. Someone once told me that I have always been the person who is behind the camera, not in the viewfinder (since I was 10, I hate being photographed). I took it as a sign and decided to study a photography. It was a right choice because I fell in love with analog photography. At high school I was also attending lessons of graphic design and that was my first step to it. I learned how to work with Photoshop and Illustrator here.
