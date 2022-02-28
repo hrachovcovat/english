@@ -29,7 +29,7 @@ In my thesis I will redesign an identity for Glamping Pyskočely, the project pr
 
 <details>
   <summary><b>Mind Map</b></summary>
-  <img alt="Gray box placeholder image, for position only." src="./img/thesis-mind-map.png">
+  <img alt="Gray box placeholder image, for position only." src="./img/map.png">
 </details>
 
 ## Keywords
