@@ -1,21 +1,4 @@
 # Clarity first
-## Brief 
-
-
-Notes
-Voice & Tone
-Academic voice avoids informal language and utilizes an authoritative tone. It’s not personal, but remember to write for humans; keep it concise using plain, accessible English.
-
-See Academic Voice examples.
-Keywords
-Keywords are a tool to help indexers and search engines find relevant content.
-
-Keywords should:
-
-Represent the content of your work
-Be specific to your field, topic, etc.
-
-
 - [Summary](#summary)
 - [Mind Map](#mind-map)
 - [Keywords](#keywords)
@@ -69,4 +52,14 @@ use a blog or what they are using to be more visible. I also have a survey where
 - …
 
 # School task
-## 
+## What is the problem of your thesis? 
+The company don't use any corresponding visual style. They also don't use much a social media 
+or any advert and I would like to mention what could be improved. Also the word 'glamping' is 
+almost unknown and it would be great to introduce it to people.
+
+## How are you going to solve it?
+I was comparing competitive accommodations, mostly from Czechia, but also abroad. I was concentrated on their designs, communication on Instagram and Facebook, if they
+use a blog or what they are using to be more visible. I also have a survey where I found out that my target group are people from 18 to 34 years and mostly partners or also families with a small children.
+
+## Why do you know it will be succesful?
+
