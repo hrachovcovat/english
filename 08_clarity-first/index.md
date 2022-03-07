@@ -22,7 +22,7 @@ Be specific to your field, topic, etc.
 - [Key Points](#key-points)
 - [References](#references)
 
-# Visual Identity of Glamping Pyskočely
+# Visual Identity of a project called Glamping Pyskočely
 
 ## Summary
 In my thesis I will redesign an identity for Glamping Pyskočely, the project providing an accommodation in a glamping style. This way the word 'glamping' will be known pro more people.
@@ -35,35 +35,31 @@ In my thesis I will redesign an identity for Glamping Pyskočely, the project pr
 ## Keywords
 
 - **Visual identity**
-  - Optional definition/description in **125 characters** or fewer.
-- **Glamping**
   - …
+- **Glamping**
+  - camping accompanied by comfort things
 - **Graphic design**
   - …
-- **Keyword**
+- **Visual communication of accommodation**
   - …
 - **Keyword**
   - …
 
 ## Key Points
-**Background/importance of topic**
+**Background/importance of topic:** Visual identity for a project Glamping Pyskočely.
 
-Visual identity for a project Glamping Pyskočely.
+**Purpose/hypothesis (thesis or statement of problem):**
+ I think the company has a big potential, but they don't use any corresponding visual style. They also 
+don't use much a social media or any advert and I would like to mention what could be improved.
 
-**Purpose/hypothesis (thesis or statement of problem)**
+**Research — design/methodology/approach including procedures/data/observations:**
+I was studying four competitive accommodations. Three from Czechia, two from abroad. I was concentrated on their design, communication on Instagram and Facebook, if they
+use a blog or what they are using to be more visible. I also have a survey where I found out that my target group are people from 18 to 34 years and mostly partners or also families with a small children.
 
+**Findings (highlight outcome of research):** 
 ?
 
-**Research — design/methodology/approach including procedures/data/observations**
-
-?
-
-**Findings (highlight outcome of research)**
-
-?
-
-**Conclusions (significance/success of study to theory/practical/society)**
-
+**Conclusions (significance/success of study to theory/practical/society):**
 ?
 
 ## References
@@ -71,3 +67,6 @@ Visual identity for a project Glamping Pyskočely.
 - [The history of glamping.](https://firelightcamps.com/blog/2018/10/2/the-history-of-glamping)
 - KAFKA, Ondřej a KOTYZA, Michal. Logo & corporate identity, 2014
 - …
+
+# School task
+## 
