@@ -38,7 +38,6 @@ Supporting the idea of a glamping accommodation, the feeling of nature, smell of
 #### Brand name
 > Original name of the company is **'Glamping Pyskočely'**. 
 
-I changed the name to **'Mezi buky'**. Translation to english is something like 'among the beech trees'.
-In colony where the accommodation lies are more than 250 years old beeches. I wanted to express the nature also in the name because like we know, almost nobody knows the word glamping and people can't connect it with nature. So I decided not to use this word and express it in a different way.
+I wanted to express the nature in the name because like we know, almost nobody knows the word glamping and people can't connect it with nature. So I decided not to use this word and express it in a different way so I changed the name to **'Mezi buky'**. Translation to english is something like **'among/between the beech trees'**. The reason is that in colony where the houses lies are more than 250 years old beeches. The word ‚mezi‘/‘among‘ can symbolize the border between world where everyone hurry somewhere and the world/place where people can concentrate on themselves, on their loved ones and presence.
 
-#### Logo?? for an opinion-_-
+#### Logo sketches
