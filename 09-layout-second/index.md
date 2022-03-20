@@ -12,7 +12,8 @@ Glamping Pyskočely – visual identity
 • The word glamping appeared in English around 2005, in the Oxford Dictionary in 2016. However, the history of glamping dates back to the time when European kings didn't sleep in a tent on the ground during trips to diplomatic meetings and military expeditions. 
 
 • During the meeting of Henry VIII. and Francis I. in the north of France were build about 2,800 tents, some were decorated with gold, red wine and beer flowed from the fountains around and Henry's tent had an area of about ten thousand square meters.
-![history.](Img/history.jpg)
+
+![history.](img/history.jpg)
 
 • Next were the Ottomans, who took a group of craftsmen on military missions to take care of the construction of their palace tents.
 
