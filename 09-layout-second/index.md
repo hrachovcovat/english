@@ -42,17 +42,19 @@ I wanted to express the nature in the name because like we know, almost nobody k
 
 #### Logo sketches
 
-> Keywords (what my logo needs to communicate)
+Keywords (what my logo needs to communicate):
 
-• The logo should express the feeling of nature
+- The logo should express the feeling of nature
+- It should be narrow and long to capture trees
+- Forest isn't made in one line, with a ruler – letters are not in the same line as the forest
+- It should communicate that it isn't a normal hotel or apartment
+- Ecology
 
-• It should be narrow and long to capture trees
-
-• Forest isn't made in one line, with a ruler – letters are not in the same line as the forest
-
-• It should communicate that it isn't a normal hotel or apartment
-
-• Ecology
+Describtion of my logo:
+- handmade
+- playful
+- organic
+- 
 
 ![Logo sketches.](img/sketches1.jpg)
 
@@ -66,7 +68,9 @@ I wanted to express the nature in the name because like we know, almost nobody k
 > 
 > Sketch no. 5 – just a typography
 
+#### Logo in use
 
+![Logo in use.](img/use.jpg)
 
 
 
