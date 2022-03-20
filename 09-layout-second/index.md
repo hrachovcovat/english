@@ -53,7 +53,7 @@ The logo should express the feeling of nature. I would like to find a font which
 > 
 > Sketch no. 4 – there is a simple tree made of the letter Y
 > 
-> Sketch no. 5 – just a typography.
+> Sketch no. 5 – just a typography
 
 
 
