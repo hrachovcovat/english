@@ -22,11 +22,16 @@ The nomadic tribes lived in yurts, circular tents providing protection from stro
 Glamping was also fueled by the event in 1903, when President Theodore Roosevelt went on a trip with conservationist John Muir to Yosemite National Park, which popularized camping. 
 
 #### Current visual identity
+> Logo of Glamping Pyskočely
+
 ![Logo of Glamping Pyskočely.](img/logo1.jpg)
 
-![Logos of accommodations Glamping Pyskočely.](img/loga.jpg)
+< Logos of accommodation in Glamping Pyskočely
 
-?
+![Logos of accommodations in Glamping Pyskočely.](img/loga.jpg)
+
+![Accommodations of Glamping Pyskočely.](img/accommodation.jpg)
+
 #### Moodboard
 Supporting the idea of a glamping accommodation, the feeling of nature, smell of a starry nights in summer, mood during the stay – freedom, unification, ease, presence, being
 
