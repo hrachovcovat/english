@@ -43,7 +43,7 @@ I wanted to express the nature in the name because like we know, almost nobody k
 #### Logo sketches
 The logo should express the feeling of nature. I would like to find a font which is narrow and long to capture the tree, as they are long and narrow. Also letters are not in the same line as the forest. Trees aren’t in one line in a woods too. 
 
-![Logo sketches.](img/sketches.jpg)
+![Logo sketches.](img/sketches1.jpg)
 
 > Sketch no. 2 – the problem is that the letter Y and the tree on the left are based on the same principle so it is confusing and it looks like there are two letters Y. So I tried to change the Y to look different, sketch no. 3
 
