@@ -21,17 +21,20 @@ The nomadic tribes lived in yurts, circular tents providing protection from stro
 
 Glamping was also fueled by the event in 1903, when President Theodore Roosevelt went on a trip with conservationist John Muir to Yosemite National Park, which popularized camping. 
 
-#### Current visual identity:
-?
+#### Current visual identity
+![Logo of Glamping Pyskočely.](img/logo1.jpg)
+
+![Logos of accommodations Glamping Pyskočely.](img/loga.jpg)
 
 ?
-
-?
-#### Moodboard:
+#### Moodboard
 Supporting the idea of a glamping accommodation, the feeling of nature, smell of a starry nights in summer, mood during the stay – freedom, unification, ease, presence, being
+
 ![Moodboard.](img/moodboard1.jpg)
 #### Brand name
-Original name of the company is **'Glamping Pyskočely'**. I changed the name to **'Mezi buky'**. Translation to english is something like 'among the beech trees'.
+> Original name of the company is **'Glamping Pyskočely'**. 
+
+I changed the name to **'Mezi buky'**. Translation to english is something like 'among the beech trees'.
 In colony where the accommodation lies are more than 250 years old beeches. I wanted to express the nature also in the name because like we know, almost nobody knows the word glamping and people can't connect it with nature. So I decided not to use this word and express it in a different way.
 
 #### Logo?? for an opinion-_-
