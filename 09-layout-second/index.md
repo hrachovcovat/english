@@ -17,7 +17,7 @@ During the meeting of Henry VIII. and Francis I. in the north of France were bui
 
 The nomadic tribes lived in yurts, circular tents providing protection from strong winds. The yurts were made of light material and construction, so they were easy to carry so it allowed the tribes to move according to their needs.
 
-![Yurt.](img/yurt.jpg)
+![Yurt.](img/yurt1.jpg)
 
 Glamping was also fueled by the event in 1903, when President Theodore Roosevelt went on a trip with conservationist John Muir to Yosemite National Park, which popularized camping. 
 
@@ -29,7 +29,7 @@ Glamping was also fueled by the event in 1903, when President Theodore Roosevelt
 ?
 #### Moodboard:
 Supporting the idea of a glamping accommodation, the feeling of nature, smell of a starry nights in summer, mood during the stay – freedom, unification, ease, presence, being
-fotototoooo
+![Moodboard.](img/moodboard1.jpg)
 #### Brand name
 Original name of the company is **'Glamping Pyskočely'**. I changed the name to **'Mezi buky'**. Translation to english is something like 'among the beech trees'.
 In colony where the accommodation lies are more than 250 years old beeches. I wanted to express the nature also in the name because like we know, almost nobody knows the word glamping and people can't connect it with nature. So I decided not to use this word and express it in a different way.
