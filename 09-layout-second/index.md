@@ -24,7 +24,7 @@ Glamping was also fueled by the event in 1903, when President Theodore Roosevelt
 #### Current visual identity
 > Logo of Glamping Pyskočely
 
-![Logo of Glamping Pyskočely.](img/logo1.jpg)
+![Logo of Glamping Pyskočely.](img/logo2.jpg)
 
 > Logos of accommodation in Glamping Pyskočely
 
