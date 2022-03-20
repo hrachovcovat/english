@@ -46,13 +46,13 @@ The logo should express the feeling of nature. I would like to find a font which
 ![Logo sketches.](img/sketches1.jpg)
 
 > Sketch no. 1 – there is a simple tree on the left side
-
+> 
 > Sketch no. 2 – the problem is that the letter Y and the tree on the left are based on the same principle so it is confusing and it looks like there are two letters Y. So I tried to change the Y to look different, sketch no. 3
-
+> 
 > Sketch no. 2 – there was the problem that the letter Y and the tree on the left are based on the same principle so it is confusing and it looks like there are two letters Y. So I tried to change the Y to look different, sketch no. 3
-
+> 
 > Sketch no. 4 – there is a simple tree made of the letter Y
-
+> 
 > Sketch no. 5 – just a typography.
 
 
