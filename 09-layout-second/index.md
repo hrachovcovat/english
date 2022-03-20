@@ -17,7 +17,7 @@ During the meeting of Henry VIII. and Francis I. in the north of France were bui
 
 The nomadic tribes lived in yurts, circular tents providing protection from strong winds. The yurts were made of light material and construction, so they were easy to carry so it allowed the tribes to move according to their needs.
 
-![Yurt.](img/yurt1.jpg)
+![Yurt.](img/yurt2.jpg)
 
 Glamping was also fueled by the event in 1903, when President Theodore Roosevelt went on a trip with conservationist John Muir to Yosemite National Park, which popularized camping. 
 
