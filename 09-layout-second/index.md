@@ -9,7 +9,15 @@ Visual identity, glamping Pyskočely, glamping, graphic design, visual communica
 ## Presentation
 Glamping Pyskočely – visual identity
 #### Brief history of the glamping:
+• The word glamping appeared in English around 2005, in the Oxford Dictionary in 2016. However, the history of glamping dates back to the time when European kings didn't sleep in a tent on the ground during trips to diplomatic meetings and military expeditions. 
 
+• During the meeting of Henry VIII. and Francis I. in the north of France were build about 2,800 tents, some were decorated with gold, red wine and beer flowed from the fountains around and Henry's tent had an area of about ten thousand square meters.
+
+• Next were the Ottomans, who took a group of craftsmen on military missions to take care of the construction of their palace tents.
+
+• The nomadic tribes lived in yurts, circular tents providing protection from strong winds. The yurts were made of light material and construction, so they were easy to carry so it allowed the tribes to move according to their needs.
+
+• Glamping was also fueled by the event in 1903, when President Theodore Roosevelt went on a trip with conservationist John Muir to Yosemite National Park, which popularized camping. 
 
 #### Current visual identity:
 ?
