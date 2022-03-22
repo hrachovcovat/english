@@ -56,7 +56,7 @@ Describtion of my logo:
 - organic
 - 
 
-![Logo sketches.](img/sketches1.jpg)
+![Logo sketches.](im/sketches1.jpg)
 
 > Sketch no. 1 – there is a simple tree on the left side
 > 
