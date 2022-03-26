@@ -20,7 +20,8 @@ Word count: <!-- Digests should be approximately 500 words. Everything below, in
 
 ## Abstract
 
-This thesis focuses on changing the visual identity of a company Glamping Pyskočely. The main aim is to make united corporate identity and visual communicatuon corresponding with the company's philosophy.  Also with a new identity I would like to express the right mood of this company. By redesigning their identity I would like to spread the word 'glamping' to more people. Point out that people can experience camping in another, more comfortable way. 
+This bachelor thesis focuses on changing the visual identity of a company Glamping Pyskočely. The work aims to make united corporate identity and visual communicatuon corresponding with the company's philosophy.  Also with a new design I would like to express the right mood of this company. By redesigning their identity I would like to spread the word 'glamping' to more people. Point out that people can experience camping in another, more comfortable way. 
+The theoretical part deals with the research about creating a new corporate identity, explaining what is glamping, approximation of a history and analysis of competition. The practical part is about introducing the company and its current visual communication, marketing and a visual style. 
 
 ## Keywords
 
