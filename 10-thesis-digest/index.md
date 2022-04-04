@@ -33,4 +33,10 @@ The theoretical part deals with the research about creating a new corporate iden
 
 
 ## Images
-
+### Symbols for houses
+To mark individual accommodation, I decided to use symbols, which should help for better orientation. Each of the symbols shows something what dominates the style of accommodation. The symbols are inserted in an irregular wheel. It sticks to simplicity and one line.
+• V korunách → This accommodation is located among the treetops, so I chose the leaves as a symbol.
+• Na pláni → Teepee is the original dwelling of the Great Plains Indians, as a symbol I used the shape of the teepee, which in the end resembles Indian's patterns.
+• Na pasece → On many pastures predominate rough grasses, so I decided to show them as the symbol.
+• V pohodlí → Since this accommodation is mainly for families with children, I used a fire in the symbol, which refers to the phrase "warmth of home".
+• Na povětří → This accommodation resembles a place where hunters observe wildlife, it is high, so I chose the wind as a symbol.
