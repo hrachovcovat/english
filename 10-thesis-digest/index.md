@@ -49,4 +49,4 @@ The guest book is beneficial because people write their feelings and opinions ab
 ![Book.](img/kniha.jpg)
 
 ### Signpost for better orientation
-![Signpost.](img/rozcestnik1.jpg)
+![Signpost.](img/rozcestnik4.jpg)
