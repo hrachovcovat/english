@@ -57,6 +57,8 @@ The guest book is beneficial because people write their feelings and opinions ab
 
 ## Merchandising
 ### Linen bags
+Sold linen bags will help with planting new trees. My aim is to not fill the bags with advertising. They are quietly decorated with symbols and a simplified version of the logo is in the right down corner. The website and text: plant a tree copies the lines of symbols. 
+
 ![Linen bags.](img/platenky.jpg)
 
 ### Paper blocks
