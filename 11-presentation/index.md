@@ -76,6 +76,3 @@ Sold linen bags will help with planting new trees. My aim is to not fill the bag
 
 ### Paper blocks
 ![Paper blocks.](img/blok.jpg)
-
-### Tin mugs
-![Linen bags.](img/??.jpg)
