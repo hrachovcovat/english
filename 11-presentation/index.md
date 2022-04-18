@@ -33,6 +33,13 @@ Examples of topics:
 To the podcast could be added acoustic episodes with sounds that guests may hear at Mezi buky (sounds of birds, crackling of fire, owls, frogs, crickets, etc.). These sounds are relaxing, soothe and helps sleep better. At the end of some eposodes could be a competition for discounts or some bonuses. 
 
 ### Logo
+This logo communicates:
+- the feeling of nature
+- the idea that forest isn't made in one line, with a ruler – letters are not in the same line as the forest
+- that it isn't a normal hotel or apartment
+- ecology, handmade, organic
+- it symbolizes trees – narrow and long typography
+
 ![Logo.](img/logo1.png)
 
 ![Logo on the wood.](img/logo3.jpg)
