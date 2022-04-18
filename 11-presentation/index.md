@@ -40,7 +40,7 @@ To mark individual accommodation, I decided to use symbols, which should help fo
 - V pohodlí → Since this accommodation is mainly for families with children, I used a fire in the symbol, which refers to the phrase "warmth of home".
 - Na povětří → This accommodation resembles a place where hunters observe wildlife, it is high, so I chose the wind as a symbol.
 
-![Symbols.](img/symboly.png)
+![Symbols.](img/symboly1.png)
 
 ### Guest books
 The guest book is beneficial because people write their feelings and opinions about their stay. They can write there what they missed or what they liked. The owner of the accommodation then has the opportunity to listen to his guests and thus convince his customers that he cares about them. That is why I created this book, which aims to connect clients with accommodation owners and thus improve the quality of services provided. The logo is burnt on wooden boards. Each accommodation would have its own book, so patterns are distinguished. The wooden boards would be painted over the pattern template, which would then remain in the original color of the wood. 
