@@ -53,7 +53,7 @@ The guest book is beneficial because people write their feelings and opinions ab
 ![Book.](10-thesis-digest/img/kniha.jpg)
 
 ### Wayfinding signposts
-![Signpost.](10-thesis-digest/img/rozcestnik1.jpg)
+![Signpost.](10-thesis-digest/img/rozcestnik2.jpg)
 
 ## Merchandising
 ### Linen bags
