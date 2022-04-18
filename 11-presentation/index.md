@@ -47,6 +47,12 @@ To mark individual accommodation, I decided to use symbols, which should help fo
 
 ![Symbols.](img/symboly1.png)
 
+### Business card
+![Business card.](img/vizitka.jpg)
+
+### Voucher
+![Voucher.](img/voucher.jpg)
+
 ### Guest books
 The guest book is beneficial because people write their feelings and opinions about their stay. They can write there what they missed or what they liked. The owner of the accommodation then has the opportunity to listen to his guests and thus convince his customers that he cares about them. I created this book, which aims to connect clients with owners and improve the quality of services. The logo is burnt on wooden boards. Each accommodation have its own book, so they are distinguished with patterns. 
 
@@ -67,7 +73,7 @@ Sold linen bags will help with planting new trees. My aim is to not fill the bag
 ![Linen bags.](img/platenky.jpg)
 
 ### Paper blocks
-![Linen bags.](img/??.jpg)
+![Paper blocks.](img/blok.jpg)
 
 ### Tin mugs
 ![Linen bags.](img/??.jpg)
