@@ -32,9 +32,14 @@ Examples of topics:
 
 To the podcast could be added acoustic episodes with sounds that guests may hear at Mezi buky (sounds of birds, crackling of fire, owls, frogs, crickets, etc.). These sounds are relaxing, soothe and helps sleep better. At the end of some eposodes could be a competition for discounts or some bonuses. 
 
+### Logo
+![Logo.](img/logo1.png)
+
+![Logo on the wood.](img/logo2.png)
+
 ### Symbols for houses
 To mark individual accommodation, I decided to use symbols, which should help for better orientation. Each of the symbols shows something what dominates the style of accommodation. The symbols are inserted in an irregular wheel. It sticks to simplicity and one line.
-- V korunách → This accommodation is located among the treetops, so I chose the leaves as a symbol.
+- **V korunách** → This accommodation is located among the treetops, so I chose the leaves as a symbol.
 - **Na pláni** → Teepee is the original dwelling of the Great Plains Indians, as a symbol I used the shape of the teepee, which in the end resembles Indian's patterns.
 - **Na pasece** → On many pastures predominate rough grasses, so I decided to show them as the symbol.
 - **V pohodlí** → Since this accommodation is mainly for families with children, I used a fire in the symbol, which refers to the phrase "warmth of home".
