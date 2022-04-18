@@ -35,7 +35,7 @@ To the podcast could be added acoustic episodes with sounds that guests may hear
 ### Logo
 ![Logo.](img/logo1.png)
 
-![Logo on the wood.](img/logo2.png)
+![Logo on the wood.](img/logo3.jpg)
 
 ### Symbols for houses
 To mark individual accommodation, I decided to use symbols, which should help for better orientation. Each of the symbols shows something what dominates the style of accommodation. The symbols are inserted in an irregular wheel. It sticks to simplicity and one line.
