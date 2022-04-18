@@ -20,3 +20,11 @@ The guest book is beneficial because people write their feelings and opinions ab
 
 ### Signpost for better orientation
 ![Signpost.](img/rozcestnik2.jpg)
+
+# Communication
+## Podcast
+As a communication channel, I would use podcasts. I would use this form of communication for more detailed information and education.
+The podcast would address topics in nature, forests, and most importantly, information about the service the company offers. Guests who understand the topic more deeply or have been among the Beeches and have a story from their stay to share and attract other customers could also invite to the podcast.
+Examples of topics: What is glamping? The history of glamping, the story Between Beeches, the support of organizations, how to help forests as an individual and so on.
+ Acoustic episodes with sounds that guests may hear among the beeches (sounds of birds, crackling of fire, owls, frogs, crickets, rustling of leaves, etc.) could be added to the podcast. These sounds are relaxing, soothe and help you sleep better.
+A competition for discounts or accommodation bonuses could be included at the end of some episodes. The competition could take the form of puzzles.
