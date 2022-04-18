@@ -48,7 +48,7 @@ To mark individual accommodation, I decided to use symbols, which should help fo
 ![Symbols.](img/symboly1.png)
 
 ### Guest books
-The guest book is beneficial because people write their feelings and opinions about their stay. They can write there what they missed or what they liked. The owner of the accommodation then has the opportunity to listen to his guests and thus convince his customers that he cares about them. That is why I created this book, which aims to connect clients with accommodation owners and thus improve the quality of services provided. The logo is burnt on wooden boards. Each accommodation would have its own book, so patterns are distinguished. The wooden boards would be painted over the pattern template, which would then remain in the original color of the wood. 
+The guest book is beneficial because people write their feelings and opinions about their stay. They can write there what they missed or what they liked. The owner of the accommodation then has the opportunity to listen to his guests and thus convince his customers that he cares about them. I created this book, which aims to connect clients with owners and improve the quality of services. The logo is burnt on wooden boards. Each accommodation have its own book, so they are distinguished with patterns. 
 
 ![Book.](img/kniha.jpg)
 
@@ -57,10 +57,10 @@ The guest book is beneficial because people write their feelings and opinions ab
 
 ## Merchandising
 ### Linen bags
-??
+![Linen bags.](img/platenky.jpg)
 
 ### Paper blocks
-??
+![Linen bags.](img/??.jpg)
 
 ### Tin mugs
-??
+![Linen bags.](img/??.jpg)
