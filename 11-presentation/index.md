@@ -39,7 +39,7 @@ I would also like to include in the profile:
 - Influencers - I would definitely choose influencers who like to travel and share it with their followers. Their target group should be the same as the the company is aiming for. Also they should have a positive attitude towards nature. Selected influencers would choose one type of accomodation. During the stay they would make a vlog or several videos and photos on instagram stories. They could also write their feelings in one post.
 - Hashtags - Promoting certain hashtags could help increase visibility. I would recommend using always the same set. Customers find them in the same place as before and it targets the same audience all the time. It helps with building a closer community. It is userful to add hashtags also in the stories, people can then view the stories below them.
 
-![Podcast.](img/podcast1.png)
+VISUAL IS COMING SOON :DD
 
 ## Blog
 I would include a blog in the communication. It can include ecology articles, trip tips or stories about the company. People could learn more about the project behind the scenes on the blog. For people who prefer to read rather than listen, a podcast could be turned into a written version. Also influencers could write a short articles about their stay. Share their experiences and feelings about accommodation. 
@@ -56,6 +56,8 @@ Examples of topics:
 - How to help forests as an individual and so on
 
 To the podcast could be added acoustic episodes with sounds that guests may hear at Mezi buky (sounds of birds, crackling of fire, owls, frogs, crickets, etc.). These sounds are relaxing, soothe and helps sleep better. At the end of some eposodes could be a competition for discounts or some bonuses. 
+
+![Podcast.](img/podcast1.jpg)
 
 ### Business card and letterhead
 ![Business card.](img/vizitka.jpg)
