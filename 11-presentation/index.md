@@ -47,8 +47,10 @@ To mark individual accommodation, I decided to use symbols, which should help fo
 
 ![Symbols.](img/symboly1.png)
 
-### Business card
+### Business card and letterhead
 ![Business card.](img/vizitka.jpg)
+
+![letterhead.](img/hlav.jpg)
 
 ### Voucher
 ![Voucher.](img/voucher.jpg)
