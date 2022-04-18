@@ -56,8 +56,13 @@ The guest book is beneficial because people write their feelings and opinions ab
 ![Signpost.](img/rozcestnik2.jpg)
 
 ## Merchandising
+### T-shirts
+Part of the profit from the T-shirts would help organizations that take care of nature and forests. For example, Čistý les nebo Zachraňme lesy. I would help to promote the #zachranmelesy hashtag for this organization. 
+
+![Linen bags.](img/trika.jpg)
+
 ### Linen bags
-Sold linen bags will help with planting new trees. My aim is to not fill the bags with advertising. They are quietly decorated with symbols and a simplified version of the logo is in the right down corner. The website and text: plant a tree copies the lines of symbols. 
+Sold linen bags will help with planting new trees. My aim is to not fill the bags with advertising. They are quietly decorated with symbols and a simplified version of the logo is in the right down corner. The website and text 'plant a tree' copies the lines of symbols. 
 
 ![Linen bags.](img/platenky.jpg)
 
