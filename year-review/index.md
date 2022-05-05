@@ -1,7 +1,7 @@
 # Year review
 **1. What did you like most about this subject?**
 
-I liked the fact that Justin really cared about us and was interested in us. 
+I liked the fact that you really cared about us and was interested in us. 
 
 **2. What did you like least about this subject?**
 
