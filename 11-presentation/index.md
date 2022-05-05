@@ -40,6 +40,7 @@ I would also like to include in the profile:
 - Hashtags - Promoting certain hashtags could help increase visibility. I would recommend using always the same set. Customers find them in the same place as before and it targets the same audience all the time. It helps with building a closer community. It is userful to add hashtags also in the stories, people can then view the stories below them.
 
 ![Instagram.](img/ig1.jpg)
+![Instagram feed.](img/ig2.png)
 
 ## Blog
 I would include a blog in the communication. It can include ecology articles, trip tips or stories about the company. People could learn more about the project behind the scenes on the blog. For people who prefer to read rather than listen, a podcast could be turned into a written version. Also influencers could write a short articles about their stay. Share their experiences and feelings about accommodation. 
@@ -79,7 +80,7 @@ The guest book is beneficial because people write their feelings and opinions ab
 ### T-shirts
 Part of the profit from the T-shirts would help organizations that take care of nature and forests. For example, Čistý les nebo Zachraňme lesy. I would help to promote the #zachranmelesy hashtag for this organization. 
 
-IT'S COMING SOON :DD
+![T-shirts.](img/t-shirts.jpg)
 
 ### Linen bags
 Sold linen bags will help with planting new trees. My aim is to not fill the bags with advertising. They are quietly decorated with symbols and a simplified version of the logo is in the right down corner. The website and text 'plant a tree' copies the lines of symbols. 
@@ -88,3 +89,6 @@ Sold linen bags will help with planting new trees. My aim is to not fill the bag
 
 ### Paper blocks
 ![Paper blocks.](img/blok.jpg)
+
+### Tin mug
+![Tin mug.](img/mug.png)
