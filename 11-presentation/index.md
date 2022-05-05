@@ -65,6 +65,11 @@ To the podcast could be added acoustic episodes with sounds that guests may hear
 
 ![letterhead.](img/hlav.jpg)
 
+## Posters
+![Posters.](img/plakat.png)
+
+![OOH.](img/ooh.jpg)
+
 ### Voucher
 ![Voucher.](img/voucher.jpg)
 
@@ -80,7 +85,7 @@ The guest book is beneficial because people write their feelings and opinions ab
 ### T-shirts
 Part of the profit from the T-shirts would help organizations that take care of nature and forests. For example, Čistý les nebo Zachraňme lesy. I would help to promote the #zachranmelesy hashtag for this organization. 
 
-![T-shirts.](img/t-shirts.jpg)
+![T-shirts.](img/t-shirt.jpg)
 
 ### Linen bags
 Sold linen bags will help with planting new trees. My aim is to not fill the bags with advertising. They are quietly decorated with symbols and a simplified version of the logo is in the right down corner. The website and text 'plant a tree' copies the lines of symbols. 
@@ -91,4 +96,4 @@ Sold linen bags will help with planting new trees. My aim is to not fill the bag
 ![Paper blocks.](img/blok.jpg)
 
 ### Tin mug
-![Tin mug.](img/mug.png)
+![Tin mug.](img/mug1.png)
