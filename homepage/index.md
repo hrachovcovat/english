@@ -1,6 +1,7 @@
 # Tereza Hrachovcová
 Hey, I am Tereza, right now student of a graphic design, seeker of myself and the most stressed out human being in the whole world. Nice to meet you!
 - [view my CV](04_resume/index.md)
+
 ## My work
 ### Winter semester
 - [Character Description](01_character_and_description/index.md)
