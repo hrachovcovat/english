@@ -40,7 +40,7 @@ I would also like to include in the profile:
 - Hashtags - Promoting certain hashtags could help increase visibility. I would recommend using always the same set. Customers find them in the same place as before and it targets the same audience all the time. It helps with building a closer community. It is userful to add hashtags also in the stories, people can then view the stories below them.
 
 ![Instagram.](img/ig1.jpg)
-![Instagram feed.](img/ig2.png)
+![Instagram feed and story.](img/ig3.png)
 
 ## Blog
 I would include a blog in the communication. It can include ecology articles, trip tips or stories about the company. People could learn more about the project behind the scenes on the blog. For people who prefer to read rather than listen, a podcast could be turned into a written version. Also influencers could write a short articles about their stay. Share their experiences and feelings about accommodation. 
